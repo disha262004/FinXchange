@@ -1,8 +1,26 @@
 import React from 'react'
 
-function RightSection() {
+function RightSection({
+    imageURL, 
+    productName, 
+    prodcutDescription, 
+    learnMore,
+    }) {
     return ( 
-        <h1>RightSection</h1>
+        <div className='container'>
+            <div className='row'>
+                <div className='col p-5 mt-5'>
+                    <h1 className='mt-5'>{productName}</h1>
+                    <p>{prodcutDescription}</p>
+                    <div>
+                        <a href={learnMore}>Learn More  <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <div className='col p-5'>
+                    <img src={imageURL} />
+                </div>
+            </div>
+        </div>
      );
 }
 
