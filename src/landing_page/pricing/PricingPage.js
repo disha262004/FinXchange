@@ -7,8 +7,8 @@ function Pricing() {
     return ( 
         <>
             <Hero />
-            <Brokerage />
             <OpenAccount />
+            <Brokerage />
         </>
     );
 }

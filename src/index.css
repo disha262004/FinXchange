@@ -13,11 +13,32 @@ code {
 }
 
 .nav-link{
-  margin-left: 40px ;
+  margin-left: 40px;
 }
 
-.links{
+a{
   text-decoration: none;
-  color: rgb(95, 94, 94);
-  font-weight: 500;
+}
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+#supportHero input{
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
 }
