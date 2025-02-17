@@ -14,7 +14,7 @@ function Hero() {
           </h1>
           <input placeholder="Eg. how do I activate F&O" />
           <br />
-          <a className="mt-3" href="">Track account opening</a>
+          <a className="mt-3 p-5" href="">Track account opening</a>
           <a className="mt-3" href="">Track segment activation</a>
           <a className="mt-3" href="">Intraday margins</a>
           <a className="mt-3" href="">Kite user manual</a>
