@@ -10,7 +10,7 @@ function Hero() {
       <div className="row p-3" id="supportContent">
         <div className="col-6 ">
           <h1 className="fs-4 mb-5">
-            Search for an answer or browse help topics to create a ticket
+            Search for an answer or browse help topics to create a ticket.
           </h1>
           <input placeholder="Eg. how do I activate F&O" />
           <br />
