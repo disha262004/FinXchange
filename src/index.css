@@ -36,9 +36,14 @@ a{
 }
 
 #supportHero input{
-  padding: 20px 50px;
+  padding: 15px ;
   width: 100%;
-  font-size: 20px;
-  border-radius: 10px;
+  font-size: 18px;
+  border-radius: 2px;
   border: none;
+}
+
+#supportContent {
+  /* padding: 13% ; */
+  margin: 0 150px;
 }
