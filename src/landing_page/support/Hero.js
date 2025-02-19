@@ -17,7 +17,7 @@ function Hero() {
           <a className="mt-3 p-5" href="">Track account opening</a>
           <a className="mt-3" href="">Track segment activation</a>
           <a className="mt-3" href="">Intraday margins</a>
-          <a className="mt-3" href="">Kite user manual</a>
+          <a className="mt-3" href="">Kite user manuals</a>
         </div>
         <div className="col-6 p-3">
           <h1 className="fs-3">Featured</h1>
