@@ -1,6 +1,6 @@
 import React from 'react'
 
-function OpenAccount() {
+function NotFound() {
     return ( 
         <div className='container p-5 mb-5'>
             <div className='row text-center'>
@@ -11,4 +11,4 @@ function OpenAccount() {
      );
 }
 
-export default OpenAccount;
+export default NotFound;
