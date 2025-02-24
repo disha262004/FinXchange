@@ -3,9 +3,9 @@ import {Link} from 'react-router-dom';
 
 function Navbar() {
     return ( 
-            <nav class="navbar navbar-expand-lg border-bottom" style={{backgroundColor:"#fff"}}>
+            <nav class="navbar navbar-expand-lg border-bottom sticky-top" style={{backgroundColor:"#fff"}}>
             <div class="container p-1">
-              <Link class="navbar-brand" to="/">
+              <Link class="navbar-brand mx-5" to="/">
                 <img src='media\image\logo.png' style={{width:"30%"}}/>
               </Link>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
