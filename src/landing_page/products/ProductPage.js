@@ -20,7 +20,7 @@ function ProductPage() {
       <RightSection 
         imageURL="media/image/console.png"
         productName="Console"
-        prodcutDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
+        prodcutDescription="The central dashboard for your FinXchange account. Gain insights into your trades and investments with in-depth reports and visualisations."
         learnMore="#"
     />
       <LeftSection

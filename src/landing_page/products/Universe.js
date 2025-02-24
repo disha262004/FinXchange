@@ -4,7 +4,7 @@ function Universe() {
   return (
     <div className="container p-5">
       <div className="row text-center p-5">
-        <h1>The Zerodha Universe</h1>
+        <h1>The FinXchange Universe</h1>
         <p className="p-3">
           Extend your trading and investment experience even further with our
           partner platforms
@@ -24,7 +24,7 @@ function Universe() {
           </p>
         </div>
         <div className="col-4 p-3 mt-3">
-          <img src="media/image/zerodhaFundhouse.png" alt="zerodhaFundhouse" style={{width:"40%"}}/>
+          <img src="media/image/FinXchangeFundhouse.png" alt="FinXchangeFundhouse" style={{width:"40%"}}/>
           <p className="text-small text-muted p-3">
             Our asset management venture that is creating simple and transparent
             index funds to help you save for your goals.

@@ -19,9 +19,9 @@ function Team() {
           <h6 className="mt-3 ">Founder, CEO</h6>
         </div>
         <div className="col p-3 ">
-          <p><br/>Nithin bootstrapped and founded Zerodha in 2010 to overcome the
+          <p><br/>Nithin bootstrapped and founded FinXchange in 2010 to overcome the
             hurdles he faced during his decade long stint as a trader. <br/>Today,
-            Zerodha has changed the landscape of the Indian broking industry.</p>
+            FinXchange has changed the landscape of the Indian broking industry.</p>
 
           <p>He is a member of the SEBI Secondary Market Advisory Committee(SMAC) and the Market Data Advisory Committee <br />(MDAC).</p>
 

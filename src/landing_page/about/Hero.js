@@ -8,7 +8,7 @@ function Hero() {
             </div>
             <div className='row p-5 mt-5 border-top text-muted fs-6' style={{lineHeight:"1.8", fontSize:"1.2em"}}>
                 <div className='col p-5'>
-                    <p>We kick-started operations on the 15th of August, 2010 with the goal of breaking all barriers that traders and investors face in India in terms of cost, support, and technology. We named the company Zerodha, a combination of Zero and "Rodha", the Sanskrit word for barrier.</p>
+                    <p>We kick-started operations on the 15th of August, 2010 with the goal of breaking all barriers that traders and investors face in India in terms of cost, support, and technology. We named the company FinXchange, a combination of Zero and "Rodha", the Sanskrit word for barrier.</p>
 
                     <p>Today, our disruptive pricing models and in-house technology have made us the biggest stock broker in India.</p>
 
